@@ -21,7 +21,7 @@
 
 I'm a security engineer in a multi-client **MSSP SOC** at **ESDS Software Solution**, developing Agentic SIEM.
 
-Alongside SOC work, I architected and led the build of **Swaraj Hansa**, an agentic, LLM-assisted, multi-tenant SIEM platform. Building it taught me how AI systems fail when they read untrusted data and call tools — and how to design the controls that stop that from happening.
+Alongside Security work, I architected and led the build of **Swaraj Hansa**, an agentic, LLM-assisted, multi-tenant SIEM platform. Building it taught me how AI systems fail when they read untrusted data and call tools — and how to design the controls that stop that from happening.
 
 That's the work I want to keep doing: **securing AI systems** and **using AI to make security operations faster**.
 
