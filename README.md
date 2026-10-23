@@ -19,7 +19,7 @@
 
 ## 🛡️ About Me
 
-I'm a security engineer with about two years in a multi-client **MSSP SOC** at **ESDS Software Solution**, handling L1–L2 incident response on IBM QRadar, Seceon and Wazuh.
+I'm a security engineer in a multi-client **MSSP SOC** at **ESDS Software Solution**, developing Agentic SIEM.
 
 Alongside SOC work, I architected and led the build of **Swaraj Hansa**, an agentic, LLM-assisted, multi-tenant SIEM platform. Building it taught me how AI systems fail when they read untrusted data and call tools — and how to design the controls that stop that from happening.
 
